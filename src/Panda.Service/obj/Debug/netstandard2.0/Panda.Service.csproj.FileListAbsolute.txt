@@ -1,0 +1,14 @@
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\bin\Debug\netstandard2.0\Panda.Service.deps.json
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\bin\Debug\netstandard2.0\Panda.Service.dll
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\bin\Debug\netstandard2.0\Panda.Service.pdb
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\bin\Debug\netstandard2.0\Panda.Data.dll
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\bin\Debug\netstandard2.0\Panda.Domain.dll
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\bin\Debug\netstandard2.0\Panda.Data.pdb
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\bin\Debug\netstandard2.0\Panda.Domain.pdb
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.csprojAssemblyReference.cache
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.csproj.CoreCompileInputs.cache
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.AssemblyInfoInputs.cache
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.AssemblyInfo.cs
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.csproj.CopyComplete
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.dll
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Service\obj\Debug\netstandard2.0\Panda.Service.pdb

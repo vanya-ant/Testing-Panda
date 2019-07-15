@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Tests\\XUnitTestProject1\\Panda.Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.App\\Panda.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.App\\Panda.App.csproj",
+        "projectName": "Panda.App",
+        "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.App\\Panda.App.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\Panda.Data.csproj": {
+                "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\Panda.Data.csproj"
+              },
+              "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Service\\Panda.Service.csproj": {
+                "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Service\\Panda.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\Panda.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\Panda.Data.csproj",
+        "projectName": "Panda.Data",
+        "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\Panda.Data.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\Panda.Domain.csproj": {
+                "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\Panda.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\Panda.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\Panda.Domain.csproj",
+        "projectName": "Panda.Domain",
+        "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\Panda.Domain.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Service\\Panda.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Service\\Panda.Service.csproj",
+        "projectName": "Panda.Service",
+        "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Service\\Panda.Service.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\Panda.Data.csproj": {
+                "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\Panda.Data.csproj"
+              },
+              "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\Panda.Domain.csproj": {
+                "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\Panda.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Tests\\XUnitTestProject1\\Panda.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Tests\\XUnitTestProject1\\Panda.Tests.csproj",
+        "projectName": "Panda.Tests",
+        "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Tests\\XUnitTestProject1\\Panda.Tests.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Tests\\XUnitTestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.App\\Panda.App.csproj": {
+                "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.App\\Panda.App.csproj"
+              },
+              "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\Panda.Data.csproj": {
+                "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Data\\Panda.Data.csproj"
+              },
+              "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\Panda.Domain.csproj": {
+                "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Domain\\Panda.Domain.csproj"
+              },
+              "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Service\\Panda.Service.csproj": {
+                "projectPath": "E:\\C# WEB\\ASP.NET Core\\Testing\\src\\Panda.Service\\Panda.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

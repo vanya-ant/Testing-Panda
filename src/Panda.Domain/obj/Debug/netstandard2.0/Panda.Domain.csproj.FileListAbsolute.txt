@@ -1,0 +1,9 @@
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Domain\bin\Debug\netstandard2.0\Panda.Domain.deps.json
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Domain\bin\Debug\netstandard2.0\Panda.Domain.dll
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Domain\bin\Debug\netstandard2.0\Panda.Domain.pdb
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Domain\obj\Debug\netstandard2.0\Panda.Domain.csprojAssemblyReference.cache
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Domain\obj\Debug\netstandard2.0\Panda.Domain.csproj.CoreCompileInputs.cache
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Domain\obj\Debug\netstandard2.0\Panda.Domain.AssemblyInfoInputs.cache
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Domain\obj\Debug\netstandard2.0\Panda.Domain.AssemblyInfo.cs
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Domain\obj\Debug\netstandard2.0\Panda.Domain.dll
+E:\C# WEB\ASP.NET Core\Testing\src\Panda.Domain\obj\Debug\netstandard2.0\Panda.Domain.pdb
